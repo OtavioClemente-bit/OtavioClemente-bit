@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">👋 Opa! Eu sou o Otavio Clemente</h1>
 
-<!--
-**OtavioClemente-bit/OtavioClemente-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Sargento do Exército • Estudante de Ciência da Computação • Dev Python em construção
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 💼 Carreira militar desde 2019 – disciplina e execução no sangue  
+- 🎓 Cursando Ciência da Computação (Estácio)  
+- 🐍 Focado em Python, algoritmos e testes  
+- 🛠 Aprendo construindo projetos reais (veja abaixo)  
+- 🎯 Objetivo 2024: primeira vaga como **dev júnior / estagiário backend**
+
+### 🔥 Projetos em destaque
+| Projeto | Descrição curtinha | Tech |
+|---------|-------------------|------|
+| [Gerenciador de Tarefas](https://github.com/OtavioClemente-bit/gerenciador_tarefas) | CRUD completo em terminal, com login e JSON | Python |
+| [Cadastro de Alunos](https://github.com/OtavioClemente-bit/cadastro_alunos) | Notas, média automática e persistência | Python |
+
+### 📫 Onde me achar
+[LinkedIn](https://www.linkedin.com/in/otavio-clemente-36056b2b5/) • GitHub issues dos repositórios • ou deixe uma ⭐ antes de sair 😉
+
+---
+
+> _“Disciplina militar, lógica de programador e vontade de aprender todos os dias.”_
