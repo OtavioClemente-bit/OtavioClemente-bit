@@ -17,7 +17,7 @@ Sargento do Exército • Estudante de Ciência da Computação • Dev Python e
 | Projeto | Descrição curtinha | Tech |
 |---------|-------------------|------|
 | [Gerenciador de Tarefas](https://github.com/OtavioClemente-bit/gerenciador_tarefas) | CRUD completo em terminal, com login e JSON | Python |
-| [Cadastro de Alunos](https://github.com/OtavioClemente-bit/cadastro_alunos) | Notas, média automática e persistência | Python |
+| [Cadastro de Alunos](https://github.com/OtavioClemente-bit/sistema-cadastro-alunos) | Notas, média automática e persistência | Python |
 
 ### 📫 Onde me achar
 [LinkedIn](https://www.linkedin.com/in/otavio-clemente-36056b2b5/) • GitHub issues dos repositórios • ou deixe uma ⭐ antes de sair 😉
