@@ -33,6 +33,7 @@ Atualmente busco minha primeira oportunidade profissional na área de tecnologia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -43,11 +44,23 @@ Atualmente busco minha primeira oportunidade profissional na área de tecnologia
 
 ### Principais frentes de estudo
 
-- Desenvolvimento de aplicações com **Python**
-- Interfaces desktop com **Tkinter** e **C# WPF**
+- Desenvolvimento de aplicações com **Python** e **C#**
+- Interfaces desktop com **Tkinter** e **WPF**
 - Persistência de dados com **SQLite**, **JSON** e organização de arquivos
 - Automação de tarefas administrativas
 - Estruturação de projetos, documentação e versionamento com Git/GitHub
+
+---
+
+## Projeto principal
+
+### [SIGFUR WPF — Sistema Integrado de Gestão do Furriel](https://github.com/OtavioClemente-bit/OtavioClemente-bit/blob/main/projetos/SIGFUR-WPF.md)
+
+Sistema desktop em **C# WPF** criado para centralizar rotinas administrativas, organizar dados, gerar documentos, apoiar conferências e automatizar tarefas repetitivas.
+
+O projeto reúne módulos de cadastro, boletins, pagamento, contracheques, férias, lembretes, documentos, automações e auditorias internas. É o meu principal case de portfólio por demonstrar evolução técnica, visão de produto e capacidade de resolver problemas reais com software.
+
+> A publicação completa do código está sendo preparada com versão limpa, dados fictícios e remoção de qualquer arquivo sensível.
 
 ---
 
@@ -55,15 +68,10 @@ Atualmente busco minha primeira oportunidade profissional na área de tecnologia
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
+| [SIGFUR WPF](https://github.com/OtavioClemente-bit/OtavioClemente-bit/blob/main/projetos/SIGFUR-WPF.md) | Principal projeto do portfólio: sistema desktop modular para gestão administrativa, automações, documentos e conferências. | C#, WPF, .NET, SQLite |
+| [SIGFUR Tkinter](https://github.com/OtavioClemente-bit/cadastro-militares-tkinter-3.0) | Versão legada em Python/Tkinter que serviu como base conceitual para evolução do SIGFUR WPF. | Python, Tkinter, SQLite |
 | [Fyno - Controle Financeiro](https://github.com/OtavioClemente-bit/Fyno-controle-financeiro) | Aplicativo de controle financeiro pessoal e acompanhamento de investimentos, com foco em organização, educação financeira e banco local. | Flutter, Dart, SQLite |
-| [Cadastro de Militares - Tkinter](https://github.com/OtavioClemente-bit/cadastro-militares-tkinter) | Sistema desktop para cadastro, gerenciamento e visualização de militares, criado para substituir planilhas e organizar dados administrativos. | Python, Tkinter, JSON |
 | [Controle Financeiro Terminal](https://github.com/OtavioClemente-bit/controle-financeiro-terminal) | Sistema em terminal para registrar receitas, despesas, categorias e calcular saldo total, mensal e anual. | Python, JSON |
-| [Sistema de Cadastro de Alunos](https://github.com/OtavioClemente-bit/sistema-cadastro-alunos) | Projeto de estudo para cadastro de alunos, lançamento de notas e cálculo automático de média. | Python, JSON |
-
-### Projeto em organização para publicação
-
-**SIGFUR** — sistema administrativo desktop desenvolvido para apoiar rotinas internas, com módulos de cadastro, boletins, controle de efetivo, conferências, automações e organização documental.  
-Antes de publicar, estou preparando uma versão limpa, sem dados reais e sem informações sensíveis.
 
 ---
 
