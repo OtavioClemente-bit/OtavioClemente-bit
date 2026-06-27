@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Otavio Clemente 👋</h1>
+<h1 align="center">Otavio Clemente</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvedor em formação • Python, C#, automação e sistemas desktop
+  Desenvolvedor em formação • C# WPF • Python • Automação • Sistemas desktop e administrativos
 </p>
 
 <p align="center">
@@ -11,56 +11,78 @@
   <a href="https://www.linkedin.com/in/otavio-clemente-36056b2b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Otavio%20Clemente-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Buscando-Estágio%20ou%20Dev%20Júnior-success?style=for-the-badge" alt="Buscando oportunidade" />
+  <img src="https://img.shields.io/badge/Objetivo-Estágio%20ou%20Dev%20Júnior-success?style=for-the-badge" alt="Buscando estágio ou vaga júnior" />
 </p>
 
 ---
 
-## Sobre mim
+## Quem sou eu
 
-Sou militar de carreira, estudante de Ciência da Computação e desenvolvedor em formação, com foco em criar soluções simples para problemas reais.
+Sou estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em **C#**, **WPF**, **Python**, **SQLite** e automação de processos.
 
-Na prática, venho construindo sistemas para automatizar rotinas administrativas, organizar dados, reduzir trabalho manual e transformar processos repetitivos em aplicações mais confiáveis.
+Minha principal característica é transformar problemas operacionais reais em sistemas funcionais. Em vez de criar apenas projetos de estudo isolados, venho construindo aplicações para resolver rotinas administrativas complexas, organizar dados, reduzir retrabalho e tornar processos manuais mais confiáveis.
 
-Atualmente busco minha primeira oportunidade profissional na área de tecnologia, principalmente como **estagiário**, **desenvolvedor júnior** ou em posições ligadas a **Python, C#, automação, backend e sistemas internos**.
+Atualmente busco uma oportunidade como **estagiário** ou **desenvolvedor júnior**, especialmente em times que trabalhem com sistemas internos, backend, automações, ferramentas administrativas ou aplicações desktop.
 
 ---
 
-## Tecnologias que venho estudando e usando
+## Projeto principal: SIGFUR WPF
+
+<p align="center">
+  <a href="https://github.com/OtavioClemente-bit/SIGFUR-WPF">
+    <img src="https://img.shields.io/badge/Ver%20projeto-SIGFUR%20WPF-512BD4?style=for-the-badge&logo=github" alt="SIGFUR WPF" />
+  </a>
+</p>
+
+O **SIGFUR WPF** é meu principal case de portfólio: um sistema desktop em **C# WPF** criado para centralizar rotinas administrativas, organizar dados, gerar documentos, apoiar conferências e automatizar tarefas repetitivas.
+
+Ele nasceu de uma necessidade real e evoluiu de uma primeira versão em Python/Tkinter para uma aplicação mais estruturada em **C#**, com separação por módulos, serviços, modelos, telas, persistência local e integração com automações auxiliares.
+
+### O que o SIGFUR WPF demonstra
+
+- Construção de uma aplicação desktop com múltiplos módulos
+- Organização de regras de negócio em um sistema real
+- Uso de **C#**, **WPF**, **.NET**, **SQLite** e automações
+- Geração e organização de documentos
+- Foco em usabilidade para usuário operacional
+- Evolução técnica de uma solução simples para uma arquitetura mais robusta
+- Cuidado com segurança, privacidade e publicação limpa no GitHub
+
+### Módulos e áreas do sistema
+
+- Gestão de efetivo e carteira individual
+- Boletim inteligente e boletim do furriel
+- Conferência de contracheques e rubricas
+- Auxílio-transporte, auxílio-alimentação e gratificações
+- Plano de férias, lembretes e pendências
+- Geração documental e organização de arquivos
+- Integrações auxiliares e automações
+
+> A versão pública foi preparada como portfólio, sem dados reais, documentos internos, bancos locais ou arquivos sensíveis.
+
+---
+
+## Stack principal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-### Principais frentes de estudo
+### Também estudo e utilizo
 
-- Desenvolvimento de aplicações com **Python** e **C#**
-- Interfaces desktop com **Tkinter** e **WPF**
-- Persistência de dados com **SQLite**, **JSON** e organização de arquivos
-- Automação de tarefas administrativas
-- Estruturação de projetos, documentação e versionamento com Git/GitHub
-
----
-
-## Projeto principal
-
-### [SIGFUR WPF — Sistema Integrado de Gestão do Furriel](https://github.com/OtavioClemente-bit/OtavioClemente-bit/blob/main/projetos/SIGFUR-WPF.md)
-
-Sistema desktop em **C# WPF** criado para centralizar rotinas administrativas, organizar dados, gerar documentos, apoiar conferências e automatizar tarefas repetitivas.
-
-O projeto reúne módulos de cadastro, boletins, pagamento, contracheques, férias, lembretes, documentos, automações e auditorias internas. É o meu principal case de portfólio por demonstrar evolução técnica, visão de produto e capacidade de resolver problemas reais com software.
-
-> A publicação completa do código está sendo preparada com versão limpa, dados fictícios e remoção de qualquer arquivo sensível.
+- Tkinter para aplicações desktop em Python
+- Flutter e Dart para estudos de aplicação multiplataforma
+- Selenium para automação de navegação
+- OpenXML e manipulação de documentos
+- Organização de projeto, documentação e versionamento
 
 ---
 
@@ -68,24 +90,21 @@ O projeto reúne módulos de cadastro, boletins, pagamento, contracheques, féri
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [SIGFUR WPF](https://github.com/OtavioClemente-bit/OtavioClemente-bit/blob/main/projetos/SIGFUR-WPF.md) | Principal projeto do portfólio: sistema desktop modular para gestão administrativa, automações, documentos e conferências. | C#, WPF, .NET, SQLite |
-| [SIGFUR Tkinter](https://github.com/OtavioClemente-bit/cadastro-militares-tkinter-3.0) | Versão legada em Python/Tkinter que serviu como base conceitual para evolução do SIGFUR WPF. | Python, Tkinter, SQLite |
-| [Fyno - Controle Financeiro](https://github.com/OtavioClemente-bit/Fyno-controle-financeiro) | Aplicativo de controle financeiro pessoal e acompanhamento de investimentos, com foco em organização, educação financeira e banco local. | Flutter, Dart, SQLite |
-| [Controle Financeiro Terminal](https://github.com/OtavioClemente-bit/controle-financeiro-terminal) | Sistema em terminal para registrar receitas, despesas, categorias e calcular saldo total, mensal e anual. | Python, JSON |
+| [SIGFUR WPF](https://github.com/OtavioClemente-bit/SIGFUR-WPF) | Principal projeto do portfólio: sistema desktop modular para gestão administrativa, documentos, conferências e automações. | C#, WPF, .NET, SQLite |
+| [SIGFUR Tkinter](https://github.com/OtavioClemente-bit/cadastro-militares-tkinter-3.0) | Versão inicial/legada do SIGFUR, criada em Python para validar fluxos e necessidades reais antes da evolução para WPF. | Python, Tkinter, SQLite |
+| [Fyno - Controle Financeiro](https://github.com/OtavioClemente-bit/Fyno-controle-financeiro) | Aplicativo de controle financeiro pessoal e acompanhamento de investimentos, com foco em organização financeira. | Flutter, Dart, SQLite |
+| [Controle Financeiro Terminal](https://github.com/OtavioClemente-bit/controle-financeiro-terminal) | Sistema em terminal para registrar receitas, despesas, categorias e calcular saldo mensal/anual. | Python, JSON |
 
 ---
 
-## O que estou buscando agora
+## O que posso entregar como júnior/estagiário
 
-Quero atuar em um ambiente onde eu possa aprender com pessoas mais experientes, evoluir tecnicamente e contribuir com responsabilidade.
-
-Tenho interesse especial em:
-
-- Desenvolvimento backend com Python ou C#
-- Sistemas internos e automações corporativas
-- Aplicações desktop e ferramentas administrativas
-- Banco de dados, APIs e organização de processos
-- Projetos onde tecnologia resolva problemas reais do dia a dia
+- Vontade real de aprender e evoluir com feedback
+- Capacidade de transformar uma demanda prática em solução funcional
+- Organização, responsabilidade e disciplina para executar tarefas
+- Facilidade com rotinas administrativas e sistemas internos
+- Interesse forte em backend, automação, banco de dados e aplicações desktop
+- Compromisso em documentar, versionar e melhorar continuamente os projetos
 
 ---
 
@@ -107,5 +126,5 @@ Tenho interesse especial em:
 ---
 
 <p align="center">
-  <strong>Disciplina para executar, curiosidade para aprender e código para resolver problema real.</strong>
+  <strong>Resolvo problemas reais com código, disciplina e vontade de aprender.</strong>
 </p>
