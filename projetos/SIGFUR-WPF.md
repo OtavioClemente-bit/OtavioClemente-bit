@@ -137,17 +137,6 @@ Antes de abrir o código completo no GitHub, a versão pública deve passar por 
 - Criar `.gitignore` próprio para WPF/.NET
 - Adicionar capturas de tela com dados fictícios
 
----
-
-## Roadmap de portfólio
-
-- [ ] Criar repositório público limpo do SIGFUR WPF
-- [ ] Adicionar README profissional
-- [ ] Subir apenas código e recursos seguros
-- [ ] Criar prints com dados fictícios
-- [ ] Documentar arquitetura e principais módulos
-- [ ] Adicionar instruções de build
-- [ ] Criar release demonstrativa sem dados sensíveis
 
 ---
 
