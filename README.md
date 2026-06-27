@@ -1,7 +1,7 @@
 <h1 align="center">Otavio Clemente</h1>
 
 <p align="center">
-  Desenvolvedor em formação • C# WPF • Python • Automação • Sistemas desktop e administrativos
+  Desenvolvedor em formação • C# WPF • ASP.NET Core • Python • Automação • Sistemas administrativos
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## Quem sou eu
 
-Sou estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em **C#**, **WPF**, **Python**, **SQLite** e automação de processos.
+Sou estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em **C#**, **WPF**, **ASP.NET Core**, **Blazor**, **Python**, **SQLite/PostgreSQL** e automação de processos.
 
 Minha principal característica é transformar problemas operacionais reais em sistemas funcionais. Em vez de criar apenas projetos de estudo isolados, venho construindo aplicações para resolver rotinas administrativas complexas, organizar dados, reduzir retrabalho e tornar processos manuais mais confiáveis.
 
-Atualmente busco uma oportunidade como **estagiário** ou **desenvolvedor júnior**, especialmente em times que trabalhem com sistemas internos, backend, automações, ferramentas administrativas ou aplicações desktop.
+Atualmente busco uma oportunidade como **estagiário** ou **desenvolvedor júnior**, especialmente em times que trabalhem com sistemas internos, backend, automações, ferramentas administrativas, aplicações desktop ou sistemas web corporativos.
 
 ---
 
@@ -62,6 +62,16 @@ Ele nasceu de uma necessidade real e evoluiu de uma primeira versão em Python/T
 
 ---
 
+## Segundo destaque: Controle de Efetivo
+
+O **Controle de Efetivo** é um sistema web/PWA em **ASP.NET Core + Blazor** para tiragem digital de faltas, organização de militares por fração, acompanhamento de envios em tempo real, auditoria e relatório consolidado.
+
+Ele mostra outra frente importante do meu aprendizado: sair do desktop e construir uma solução web com autenticação, perfis de usuário, banco PostgreSQL, Docker, interface mobile-first e fluxo operacional multiusuário.
+
+> O repositório está sendo preparado para exposição pública segura, sem dados reais ou informações sensíveis.
+
+---
+
 ## Stack principal
 
 <div align="center">
@@ -69,8 +79,12 @@ Ele nasceu de uma necessidade real e evoluiu de uma primeira versão em Python/T
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -91,6 +105,7 @@ Ele nasceu de uma necessidade real e evoluiu de uma primeira versão em Python/T
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [SIGFUR WPF](https://github.com/OtavioClemente-bit/SIGFUR-WPF) | Principal projeto do portfólio: sistema desktop modular para gestão administrativa, documentos, conferências e automações. | C#, WPF, .NET, SQLite |
+| [Controle de Efetivo](https://github.com/OtavioClemente-bit/controle-de-efetivo) | Sistema web/PWA para tiragem digital de faltas, organização por fração, painel do dia, auditoria e relatório consolidado. | ASP.NET Core, Blazor, PostgreSQL, Docker |
 | [SIGFUR Tkinter](https://github.com/OtavioClemente-bit/cadastro-militares-tkinter-3.0) | Versão inicial/legada do SIGFUR, criada em Python para validar fluxos e necessidades reais antes da evolução para WPF. | Python, Tkinter, SQLite |
 | [Fyno - Controle Financeiro](https://github.com/OtavioClemente-bit/Fyno-controle-financeiro) | Aplicativo de controle financeiro pessoal e acompanhamento de investimentos, com foco em organização financeira. | Flutter, Dart, SQLite |
 | [Controle Financeiro Terminal](https://github.com/OtavioClemente-bit/controle-financeiro-terminal) | Sistema em terminal para registrar receitas, despesas, categorias e calcular saldo mensal/anual. | Python, JSON |
@@ -103,7 +118,7 @@ Ele nasceu de uma necessidade real e evoluiu de uma primeira versão em Python/T
 - Capacidade de transformar uma demanda prática em solução funcional
 - Organização, responsabilidade e disciplina para executar tarefas
 - Facilidade com rotinas administrativas e sistemas internos
-- Interesse forte em backend, automação, banco de dados e aplicações desktop
+- Interesse forte em backend, automação, banco de dados e aplicações desktop/web
 - Compromisso em documentar, versionar e melhorar continuamente os projetos
 
 ---
