@@ -1,145 +1,84 @@
 <h1 align="center">Otavio Clemente</h1>
 
-<p align="center">
-  Desenvolvedor em formação • C# WPF • ASP.NET Core • Python • Automação • Sistemas administrativos
-</p>
+<p align="center"><strong>Desenvolvedor em formação que transforma problemas reais em software útil, organizado e pronto para evoluir.</strong></p>
+
+<p align="center">Ciência da Computação · C# · .NET · WPF · ASP.NET Core · Blazor · Kotlin · Flutter · Python</p>
 
 <p align="center">
-  <a href="https://github.com/OtavioClemente-bit">
-    <img src="https://img.shields.io/badge/GitHub-OtavioClemente--bit-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/otavio-clemente-36056b2b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Otavio%20Clemente-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Objetivo-Estágio%20ou%20Dev%20Júnior-success?style=for-the-badge" alt="Buscando estágio ou vaga júnior" />
+  <a href="https://github.com/OtavioClemente-bit"><img src="https://img.shields.io/badge/GitHub-OtavioClemente--bit-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/otavio-clemente-36056b2b5/"><img src="https://img.shields.io/badge/LinkedIn-Otavio%20Clemente-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Disponível-Estágio%20e%20Dev%20Júnior-1F8A70?style=for-the-badge" alt="Disponível para estágio e desenvolvimento júnior" />
 </p>
 
 ---
 
-## Quem sou eu
+## Sobre mim
 
-Sou estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em **C#**, **WPF**, **ASP.NET Core**, **Blazor**, **Python**, **SQLite/PostgreSQL** e automação de processos.
+Sou estudante de Ciência da Computação e desenvolvedor em formação. Meu foco é construir sistemas que resolvam rotinas de verdade: organizar informação, reduzir retrabalho, tornar decisões mais claras e transformar processos manuais em fluxos confiáveis.
 
-Minha principal característica é transformar problemas operacionais reais em sistemas funcionais. Em vez de criar apenas projetos de estudo isolados, venho construindo aplicações para resolver rotinas administrativas complexas, organizar dados, reduzir retrabalho e tornar processos manuais mais confiáveis.
+O que mais me representa é a combinação de visão prática com disciplina técnica. Eu não quero apenas fazer uma tela bonita ou entregar um protótipo; gosto de entender o problema, modelar os dados, pensar nos casos de erro, cuidar da experiência de quem vai usar e deixar o projeto documentado para continuar crescendo.
 
-Atualmente busco uma oportunidade como **estagiário** ou **desenvolvedor júnior**, especialmente em times que trabalhem com sistemas internos, backend, automações, ferramentas administrativas, aplicações desktop ou sistemas web corporativos.
+Tenho estudado e aplicado C#, .NET, WPF, ASP.NET Core, Blazor, Kotlin, Jetpack Compose, Flutter, Dart, Python, SQLite, PostgreSQL, Docker e automação. Também venho praticando arquitetura, persistência local, integrações, geração de documentos, testes, versionamento e publicação segura de projetos.
 
----
+## O que eu construo
 
-## Projeto principal: SIGFUR WPF
-
-<p align="center">
-  <a href="https://github.com/OtavioClemente-bit/SIGFUR-WPF">
-    <img src="https://img.shields.io/badge/Ver%20projeto-SIGFUR%20WPF-512BD4?style=for-the-badge&logo=github" alt="SIGFUR WPF" />
-  </a>
-</p>
-
-O **SIGFUR WPF** é meu principal case de portfólio: um sistema desktop em **C# WPF** criado para centralizar rotinas administrativas, organizar dados, gerar documentos, apoiar conferências e automatizar tarefas repetitivas.
-
-Ele nasceu de uma necessidade real e evoluiu de uma primeira versão em Python/Tkinter para uma aplicação mais estruturada em **C#**, com separação por módulos, serviços, modelos, telas, persistência local e integração com automações auxiliares.
-
-### O que o SIGFUR WPF demonstra
-
-- Construção de uma aplicação desktop com múltiplos módulos
-- Organização de regras de negócio em um sistema real
-- Uso de **C#**, **WPF**, **.NET**, **SQLite** e automações
-- Geração e organização de documentos
-- Foco em usabilidade para usuário operacional
-- Evolução técnica de uma solução simples para uma arquitetura mais robusta
-- Cuidado com segurança, privacidade e publicação limpa no GitHub
-
-### Módulos e áreas do sistema
-
-- Gestão de efetivo e carteira individual
-- Boletim inteligente e boletim do furriel
-- Conferência de contracheques e rubricas
-- Auxílio-transporte, auxílio-alimentação e gratificações
-- Plano de férias, lembretes e pendências
-- Geração documental e organização de arquivos
-- Integrações auxiliares e automações
-
-> A versão pública foi preparada como portfólio, sem dados reais, documentos internos, bancos locais ou arquivos sensíveis.
+<table>
+  <tr>
+    <td width="50%" valign="top"><h3>Sistemas administrativos</h3><p>Aplicações para centralizar rotinas, organizar cadastros, acompanhar pendências, gerar documentos e apoiar operações que normalmente dependem de planilhas e tarefas repetitivas.</p></td>
+    <td width="50%" valign="top"><h3>Produtos com fluxo completo</h3><p>Do modelo de dados à interface: regras de negócio, navegação, persistência, validações, relatórios, automações, documentação e uma apresentação pública profissional.</p></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>Software com contexto</h3><p>Procuro entender quem usa, qual decisão precisa ser tomada e onde o processo falha. Isso orienta as telas, os dados e as prioridades do produto.</p></td>
+    <td width="50%" valign="top"><h3>Evolução contínua</h3><p>Uso o GitHub como registro do aprendizado: implemento, valido, documento, reviso e melhoro. Cada projeto representa uma etapa concreta da minha evolução.</p></td>
+  </tr>
+</table>
 
 ---
 
-## Segundo destaque: Controle de Efetivo
+## Projetos que melhor representam meu trabalho
 
-O **Controle de Efetivo** é um sistema web/PWA em **ASP.NET Core + Blazor** para tiragem digital de faltas, organização de militares por fração, acompanhamento de envios em tempo real, auditoria e relatório consolidado.
+<table>
+  <tr>
+    <td width="50%" valign="top"><h3><a href="https://github.com/OtavioClemente-bit/SIGFUR-WPF">SIGFUR WPF</a></h3><p><strong>Meu principal case de portfólio.</strong></p><p>Sistema desktop modular para gestão administrativa, controle de efetivo, documentos, conferências, pendências e automações. Evoluiu de uma primeira solução em Python/Tkinter para uma aplicação estruturada em C# WPF, .NET e SQLite.</p><p><code>C#</code> <code>WPF</code> <code>.NET</code> <code>SQLite</code> <code>Selenium</code></p></td>
+    <td width="50%" valign="top"><h3><a href="https://github.com/OtavioClemente-bit/Fyno-controle-financeiro">Fyno</a></h3><p><strong>Produto mobile com foco em organização financeira.</strong></p><p>Aplicativo para receitas, despesas, metas, cartões, NFC-e, relatórios e backups. Trabalha uma experiência local-first, com atenção à clareza dos dados e à privacidade do usuário.</p><p><code>Flutter</code> <code>Dart</code> <code>SQLite</code> <code>Material 3</code></p></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3><a href="https://github.com/OtavioClemente-bit/Meu-Concurso">Meu Concurso</a></h3><p><strong>Planejamento de estudos orientado por dados.</strong></p><p>Aplicativo Android offline-first que transforma editais em planos executáveis, sessões de estudo, questões, revisões espaçadas, desempenho e caderno de erros.</p><p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code> <code>WorkManager</code></p></td>
+    <td width="50%" valign="top"><h3><a href="https://github.com/OtavioClemente-bit/controle-de-efetivo">Controle de Efetivo</a></h3><p><strong>Minha frente web e multiusuário.</strong></p><p>Sistema web/PWA para tiragem digital, organização por fração, acompanhamento de envios, auditoria e consolidação de relatórios. Representa minha evolução para aplicações web com autenticação, perfis e operação em equipe.</p><p><code>ASP.NET Core</code> <code>Blazor</code> <code>PostgreSQL</code> <code>Docker</code></p></td>
+  </tr>
+</table>
 
-Ele mostra outra frente importante do meu aprendizado: sair do desktop e construir uma solução web com autenticação, perfis de usuário, banco PostgreSQL, Docker, interface mobile-first e fluxo operacional multiusuário.
+> Os dados exibidos nos projetos públicos são fictícios ou demonstrativos. A publicação foi preparada para mostrar arquitetura, produto e capacidade técnica sem expor informações reais.
 
-> O repositório está sendo preparado para exposição pública segura, sem dados reais ou informações sensíveis.
+## O que estou buscando
 
----
+Uma oportunidade de estágio ou desenvolvimento júnior em que eu possa contribuir com sistemas internos, backend, automações, aplicações desktop, produtos web ou soluções orientadas a dados — e evoluir próximo de uma equipe experiente.
+
+Posso contribuir especialmente com:
+
+- desenvolvimento e manutenção de aplicações C#/.NET;
+- construção de telas e fluxos em WPF, Blazor, Compose e Flutter;
+- modelagem e persistência com SQLite e PostgreSQL;
+- automação de tarefas e integrações;
+- organização de regras de negócio e documentação;
+- investigação de problemas, validação e melhoria contínua.
 
 ## Stack principal
 
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-### Também estudo e utilizo
-
-- Tkinter para aplicações desktop em Python
-- Flutter e Dart para estudos de aplicação multiplataforma
-- Selenium para automação de navegação
-- OpenXML e manipulação de documentos
-- Organização de projeto, documentação e versionamento
-
----
-
-## Produtos em destaque
-
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [SIGFUR WPF](https://github.com/OtavioClemente-bit/SIGFUR-WPF) | Sistema desktop modular para gestão administrativa, documentos, conferências e automações, preparado como case público. | C#, WPF, .NET, SQLite |
-| [Fyno - Controle Financeiro](https://github.com/OtavioClemente-bit/Fyno-controle-financeiro) | Aplicativo multiplataforma para organizar receitas, despesas, metas, cartões, NFC-e e backups com privacidade local-first. | Flutter, Dart, SQLite |
-| [Meu Concurso](https://github.com/OtavioClemente-bit/Meu-Concurso) | Aplicativo Android offline-first para transformar editais em planos de estudo adaptativos, revisões e execução mensurável. | Kotlin, Compose, Room |
-
-> Estes são os três projetos principais do portfólio. Projetos experimentais e versões legadas permanecem disponíveis no perfil, mas não representam o foco atual.
-
----
-
-## O que posso entregar como júnior/estagiário
-
-- Vontade real de aprender e evoluir com feedback
-- Capacidade de transformar uma demanda prática em solução funcional
-- Organização, responsabilidade e disciplina para executar tarefas
-- Facilidade com rotinas administrativas e sistemas internos
-- Interesse forte em backend, automação, banco de dados e aplicações desktop/web
-- Compromisso em documentar, versionar e melhorar continuamente os projetos
-
----
-
-## GitHub em números
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OtavioClemente-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioClemente-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" /> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+  <br />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+## Fora do código
+
+Além da parte técnica, venho desenvolvendo comunicação, organização, autonomia e responsabilidade. Gosto de receber feedback, investigar até entender a causa de um problema e transformar o aprendizado em uma melhoria concreta no projeto.
 
 ## Contato
 
 - LinkedIn: [linkedin.com/in/otavio-clemente-36056b2b5](https://www.linkedin.com/in/otavio-clemente-36056b2b5/)
 - GitHub: [github.com/OtavioClemente-bit](https://github.com/OtavioClemente-bit)
-- E-mail: otavioclemente17@gmail.com
+- E-mail: [otavioclemente17@gmail.com](mailto:otavioclemente17@gmail.com)
 
----
-
-<p align="center">
-  <strong>Resolvo problemas reais com código, disciplina e vontade de aprender.</strong>
-</p>
+<p align="center"><strong>Se existe um processo confuso, eu gosto de entender, organizar e transformar em software.</strong></p>
