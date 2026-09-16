@@ -100,15 +100,15 @@ Ele mostra outra frente importante do meu aprendizado: sair do desktop e constru
 
 ---
 
-## Projetos em destaque
+## Produtos em destaque
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [SIGFUR WPF](https://github.com/OtavioClemente-bit/SIGFUR-WPF) | Principal projeto do portfólio: sistema desktop modular para gestão administrativa, documentos, conferências e automações. | C#, WPF, .NET, SQLite |
-| [Controle de Efetivo](https://github.com/OtavioClemente-bit/controle-de-efetivo) | Sistema web/PWA para tiragem digital de faltas, organização por fração, painel do dia, auditoria e relatório consolidado. | ASP.NET Core, Blazor, PostgreSQL, Docker |
-| [SIGFUR Tkinter](https://github.com/OtavioClemente-bit/cadastro-militares-tkinter-3.0) | Versão inicial/legada do SIGFUR, criada em Python para validar fluxos e necessidades reais antes da evolução para WPF. | Python, Tkinter, SQLite |
-| [Fyno - Controle Financeiro](https://github.com/OtavioClemente-bit/Fyno-controle-financeiro) | Aplicativo de controle financeiro pessoal e acompanhamento de investimentos, com foco em organização financeira. | Flutter, Dart, SQLite |
-| [Controle Financeiro Terminal](https://github.com/OtavioClemente-bit/controle-financeiro-terminal) | Sistema em terminal para registrar receitas, despesas, categorias e calcular saldo mensal/anual. | Python, JSON |
+| [SIGFUR WPF](https://github.com/OtavioClemente-bit/SIGFUR-WPF) | Sistema desktop modular para gestão administrativa, documentos, conferências e automações, preparado como case público. | C#, WPF, .NET, SQLite |
+| [Fyno - Controle Financeiro](https://github.com/OtavioClemente-bit/Fyno-controle-financeiro) | Aplicativo multiplataforma para organizar receitas, despesas, metas, cartões, NFC-e e backups com privacidade local-first. | Flutter, Dart, SQLite |
+| [Meu Concurso](https://github.com/OtavioClemente-bit/Meu-Concurso) | Aplicativo Android offline-first para transformar editais em planos de estudo adaptativos, revisões e execução mensurável. | Kotlin, Compose, Room |
+
+> Estes são os três projetos principais do portfólio. Projetos experimentais e versões legadas permanecem disponíveis no perfil, mas não representam o foco atual.
 
 ---
 
