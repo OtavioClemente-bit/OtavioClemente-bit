@@ -106,7 +106,7 @@ Ele mostra outra frente importante do meu aprendizado: sair do desktop e constru
 | --- | --- | --- |
 | [SIGFUR WPF](https://github.com/OtavioClemente-bit/SIGFUR-WPF) | Sistema desktop modular para gestão administrativa, documentos, conferências e automações, preparado como case público. | C#, WPF, .NET, SQLite |
 | [Fyno - Controle Financeiro](https://github.com/OtavioClemente-bit/Fyno-controle-financeiro) | Aplicativo multiplataforma para organizar receitas, despesas, metas, cartões, NFC-e e backups com privacidade local-first. | Flutter, Dart, SQLite |
-| [Meu Concurso](https://github.com/OtavioClemente-bit/Meu-Concurso) | Aplicativo Android offline-first para transformar editais em planos de estudo adaptativos, revisões e execução mensurável. | Kotlin, Compose, Room |
+| Meu Concurso *(repositório em preparação)* | Aplicativo Android offline-first para transformar editais em planos de estudo adaptativos, revisões e execução mensurável. | Kotlin, Compose, Room |
 
 > Estes são os três projetos principais do portfólio. Projetos experimentais e versões legadas permanecem disponíveis no perfil, mas não representam o foco atual.
 
